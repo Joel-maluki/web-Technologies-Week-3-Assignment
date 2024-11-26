@@ -1,0 +1,15 @@
+/* Body background color */
+body {
+    background-color: #fafafa;
+}
+
+/* Styling links */
+a {
+    color: #0000ff; /* Blue links */
+    text-decoration: none; /* Remove underline */
+}
+
+/* Styling link hover effect */
+a:hover {
+    color: #ff6347; /* Change color on hover */
+}
